@@ -1,5 +1,3 @@
-import copy
-import sys
 
 
 def fetch_input(input_file):
